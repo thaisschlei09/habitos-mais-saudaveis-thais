@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/thaisschlei09/habitos-mais-saudaveis-thais/static/css/main.a6b42c32.css",
-    "main.js": "/thaisschlei09/habitos-mais-saudaveis-thais/static/js/main.16cca416.js",
+    "main.js": "/thaisschlei09/habitos-mais-saudaveis-thais/static/js/main.009742a7.js",
     "static/media/imagePostoHome.png": "/thaisschlei09/habitos-mais-saudaveis-thais/static/media/imagePostoHome.eefe9dd5b55da2f9a431.png",
     "static/media/post1.png": "/thaisschlei09/habitos-mais-saudaveis-thais/static/media/post1.fb2c4831b97a7fb14af2.png",
     "static/media/post2.png": "/thaisschlei09/habitos-mais-saudaveis-thais/static/media/post2.7164ceb9d33d861ea2e3.png",
@@ -9,10 +9,10 @@
     "static/media/logo.png": "/thaisschlei09/habitos-mais-saudaveis-thais/static/media/logo.7777ad9628302103e152.png",
     "index.html": "/thaisschlei09/habitos-mais-saudaveis-thais/index.html",
     "main.a6b42c32.css.map": "/thaisschlei09/habitos-mais-saudaveis-thais/static/css/main.a6b42c32.css.map",
-    "main.16cca416.js.map": "/thaisschlei09/habitos-mais-saudaveis-thais/static/js/main.16cca416.js.map"
+    "main.009742a7.js.map": "/thaisschlei09/habitos-mais-saudaveis-thais/static/js/main.009742a7.js.map"
   },
   "entrypoints": [
     "static/css/main.a6b42c32.css",
-    "static/js/main.16cca416.js"
+    "static/js/main.009742a7.js"
   ]
 }
