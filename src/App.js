@@ -8,7 +8,7 @@ import Post from './pages/Post';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter basename='/'>
+      <BrowserRouter basename="/habitos-mais-saudaveis-thais">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/post" element={<Post />} />
