@@ -1,0 +1,74 @@
+.content {
+    margin-bottom: 100px;
+    text-align: justify;
+}
+
+.content h1 {
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+.content h2 {
+    margin-top: 50px;
+    font-size: 2.0rem;
+    font-weight: 600;
+}
+
+.content h3 {
+    margin-top: 30px;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.content h4 {
+    margin-top: 20px;
+    font-size: 1.3rem;
+}
+
+.content h1, .content h2, .content h3, .content h4 {
+    font-weight: 600;
+}
+
+.img, .img1, .img2, .img3 {
+    width: 100%;
+    text-align: center;
+}
+
+.img img {
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+    margin: 20px 0px;
+    border-radius: 30px;
+}
+
+.img1 img {
+    width: 60%;
+    height: 400px;
+    object-fit: cover;
+    object-position: 70% 40%;
+    margin: 0 auto;
+    margin: 20px 0px;
+    border-radius: 30px;
+}
+
+.img2 img {
+    width: 70%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 70% 40%;
+    margin: 0 auto;
+    margin: 20px 0px;
+    border-radius: 30px;
+}
+
+
+.img3 img {
+    width: 70%;
+    height: 400px;
+    object-fit: cover;
+    object-position: 70% 25%;
+    margin: 0 auto;
+    margin: 20px 0px;
+    border-radius: 30px;
+}

@@ -1,0 +1,56 @@
+{
+  "name": "habitos-mais-saudaveis-thais",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.3.1",
+    "@mui/material": "^6.3.1",
+    "@progress/kendo-licensing": "^1.2.2",
+    "@progress/kendo-react-progressbars": "^5.0.1",
+    "@ramonak/react-progress-bar": "^4.4.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "axios": "^0.26.0",
+    "bootstrap": "^5.3.3",
+    "react": "^19.0.0",
+    "react-animated-css": "^1.2.1",
+    "react-bootstrap": "^2.10.7",
+    "react-dom": "^19.0.0",
+    "react-icons": "^4.3.1",
+    "react-router-bootstrap": "^0.26.3",
+    "react-router-dom": "^7.1.1",
+    "react-scripts": "5.0.0",
+    "react-scroll": "^1.8.4",
+    "react-scroll-into-view": "^1.11.0",
+    "react-scroll-to-top": "^1.0.8",
+    "swiper": "^8.0.6",
+    "web-vitals": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
